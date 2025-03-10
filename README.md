@@ -61,6 +61,14 @@ Font optional (https://github.com/pdf/ubuntu-mono-powerline-ttf)
 `mkdir -p ~/.fonts`
 `git clone https://github.com/pdf/ubuntu-mono-powerline-ttf.git ~/.fonts/ubuntu-mono-powerline-ttf`
 `fc-cache -vf`
+ REBOOT!!!!!!!!!!!!!!!!!!!!!
+ 
 
-# REBOOT!!!!!!!!!!!!!!!!!!!!!
+ ## Extensions for VS Code
+
+ Django Baptiste Darthenay
+ 
+<a href="https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django"><img src="https://github.com/WeberSouzaWeb/Django-FirstProject/blob/main/images/Extensions_DjangoBaptisteDarthenay.png" width="500"></img></a>
+ 
+ 
 
